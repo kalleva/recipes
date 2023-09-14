@@ -1,3 +1,5 @@
+[dotnet cli](https://learn.microsoft.com/en-us/dotnet/core/tools/)
+
 Create app:
 ```
 dotnet new console --framework net7.0
