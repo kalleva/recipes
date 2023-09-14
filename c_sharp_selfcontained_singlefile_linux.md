@@ -5,6 +5,11 @@ Create app:
 dotnet new console --framework net7.0
 ```
 
+Add nuget package:
+```
+dotnet add package System.IO.Ports
+```
+
 Run app:
 ```
 dotnet run
